@@ -1,6 +1,5 @@
 import random
 
-print("Hello World")
 print("Welcome to Guess the Number!")
 print("I picked a number between 1 and 20.")
 
